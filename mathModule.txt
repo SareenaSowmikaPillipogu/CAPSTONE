@@ -1,3 +1,5 @@
-Thia files contains calculations
-two plus two is
-three plus three is 
+<<<<<<< HEAD
+This file contains calculations
+two plus two is four
+three plus three is six
+>>>>>>> sohan_branch
